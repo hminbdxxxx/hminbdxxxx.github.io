@@ -1,0 +1,38 @@
+languageCode = "zh-cn"
+title = "hminbdxxxx"
+theme = "soml"
+
+baseURL = "https://hminbdxxxx.github.io"
+# copyright = "© Athul"
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=8 # articles per page
+
+[params]
+	mode="light" # color-mode → light,dark or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "hminbdxxx的记录"
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[menu.footer]]
+name = "Github"
+url = "https://github.com/hminbdxxxx"
+weight = 1 

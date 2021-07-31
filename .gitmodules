@@ -1,0 +1,15 @@
+[submodule "theme/themes/ananke"]
+	path = theme/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "theme/archie"]
+	path = theme/archie
+	url = https://github.com/athul/archie.git
+[submodule "themes/archie"]
+	path = themes/archie
+	url = https://github.com/athul/archie.git
+[submodule "themes/soml"]
+	path = themes/soml
+	url = https://github.com/colorchestra/smol
+[submodule "themes/blank"]
+	path = themes/blank
+	url = https://github.com/vimux/blank
